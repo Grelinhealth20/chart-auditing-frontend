@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/autofill-confirm/page": "app/autofill-confirm/page.js",
+  "/cms-validation/page": "app/cms-validation/page.js",
+  "/fda-language/page": "app/fda-language/page.js",
+  "/final-note/page": "app/final-note/page.js",
+  "/jw-wastage/page": "app/jw-wastage/page.js",
+  "/lcd-compliance/page": "app/lcd-compliance/page.js",
+  "/note-capture/page": "app/note-capture/page.js",
+  "/page": "app/page.js",
+  "/structured-note/page": "app/structured-note/page.js",
+  "/wiser-audit/page": "app/wiser-audit/page.js"
+}

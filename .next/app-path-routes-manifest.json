@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/autofill-confirm/page": "/autofill-confirm",
+  "/cms-validation/page": "/cms-validation",
+  "/fda-language/page": "/fda-language",
+  "/final-note/page": "/final-note",
+  "/jw-wastage/page": "/jw-wastage",
+  "/lcd-compliance/page": "/lcd-compliance",
+  "/note-capture/page": "/note-capture",
+  "/page": "/",
+  "/structured-note/page": "/structured-note",
+  "/wiser-audit/page": "/wiser-audit"
+}

@@ -1,0 +1,15 @@
+[00:00:38.142] Server  LOG      ✓ Ready in 33.1s
+[00:01:09.415] Server  LOG      ○ Compiling / ...
+[00:03:08.744] Server  LOG      ○ Compiling /structured-note ...
+[00:04:23.363] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:06:58.346] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:52.842] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
